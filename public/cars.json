@@ -1,0 +1,98 @@
+[
+  {
+    "img": "https://i.ibb.co/VLtYNQy/Chrysler-300-Touring-L-RWD-2020.jpg",
+    "max_car_id": 104,
+    "id": 1,
+    "name": "chrysler",
+    "avg_horsepower": 291.33,
+    "price": 32971.66
+  },
+  {
+    "img": "https://i.ibb.co/BsSvCqZ/img-models05.jpg",
+    "max_car_id": 152,
+    "id": 2,
+    "name": "honda",
+    "avg_horsepower": 190.62,
+    "price": 27965
+  },
+  {
+    "img": "https://i.ibb.co/vY9rXqW/Mercedes-Benz-CLA-250-4-MATIC-2021.jpg",
+    "max_car_id": 270,
+    "id": 3,
+    "name": "mercedes-benz",
+    "avg_horsepower": 333.94,
+    "price": 80681.94
+  },
+  {
+    "img": "https://i.ibb.co/T4Jd0NW/2022-ram-ram-1500-pickup-angularfront.jpg",
+    "max_car_id": 307,
+    "id": 4,
+    "name": "ram",
+    "avg_horsepower": 299.83,
+    "price": 31406.66
+  },
+  {
+    "img": "https://i.ibb.co/6sy5GZ7/aad6cdb37b60f2b6376058fa56a2d1da.jpg",
+    "max_car_id": 125,
+    "id": 5,
+    "name": "ford",
+    "avg_horsepower": 281.26,
+    "price": 34998.68
+  },
+  {
+    "img": "https://i.ibb.co/PQxbcLg/ext-GHR-deg01.jpg",
+    "max_car_id": 146,
+    "id": 6,
+    "name": "gmc",
+    "avg_horsepower": 292.33,
+    "price": 40609.44
+  },
+  {
+    "img": "https://i.ibb.co/wNh1Ddb/Audi-A4-1-4-TFSI-2020.jpg",
+    "max_car_id": 21,
+    "id": 7,
+    "name": "audi",
+    "avg_horsepower": 340.59,
+    "price": 66631.81
+  },
+  {
+    "img": "https://i.ibb.co/KLkvgdT/Subaru-WRX-STI-Limited-2021.jpg",
+    "max_car_id": 330,
+    "id": 8,
+    "name": "subaru",
+    "avg_horsepower": 192.14,
+    "price": 27159.28
+  },
+  {
+    "img": "https://i.ibb.co/BZMhYqY/Rolls-Royce-Phantom-2021.jpg",
+    "max_car_id": 315,
+    "id": 9,
+    "name": "rolls-royce",
+    "avg_horsepower": 518.16,
+    "price": 394858.33
+  },
+  {
+    "img": "https://i.ibb.co/HGTwksS/Porsche-992-911-Right-Front-Three-Quarter-154380.jpg",
+    "max_car_id": 301,
+    "id": 10,
+    "name": "porsche",
+    "avg_horsepower": 475.25,
+    "price": 203787.5
+  },
+  {
+    "img": "https://i.ibb.co/dKs3rmS/bmw-8-series-right-front-three-quarter8.jpg",
+    "max_car_id": 64,
+    "id": 11,
+    "name": "bmw",
+    "avg_horsepower": 379.22,
+    "price": 74501.61
+  },
+  {
+    "img": "https://i.ibb.co/GQmkbYj/volvo-xc90-onyx-black.png",
+    "max_car_id": 371,
+    "id": 12,
+    "name": "volvo",
+    "avg_horsepower": 285.28,
+    "price": 45967.85
+  }
+]

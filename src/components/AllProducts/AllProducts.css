@@ -1,0 +1,28 @@
+.remove-btn{
+    border: none;
+    padding: 10px;
+    border-radius:0px 8px;
+    font-weight: 600;
+    background-color: gainsboro;
+    transition: 0.2s all;
+}
+
+.remove-btn:hover{
+    background: lightcoral;
+    transform: scale(1.05);
+}
+
+
+.random-btn{
+    border: none;
+    padding: 10px;
+    border-radius:0px 8px;
+    font-weight: 600;
+    background-color: gainsboro;
+    transition: 0.2s all;
+}
+
+.random-btn:hover{
+    background: lightgoldenrodyellow;
+    transform: scale(1.05);
+}
